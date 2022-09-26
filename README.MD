@@ -7,7 +7,12 @@ SEQ2
 ---
 Processing
 -> https://processing.org/
+
   -> Télécharger l'archive.
+
   -> Déplacer l'archive sur le bureau.
+  
   -> clic droit, extraire l'archive.
+
+
 [sujet](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/rk09Hox-s)
