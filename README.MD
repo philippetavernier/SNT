@@ -38,7 +38,7 @@ SEQ5
 
 HTML
 ----
-
+[Prise en main html](https://hackmd.io/bvjbtlj8QXCsyuvuEaersA)
 [sujet](https://drive.google.com/drive/folders/0B9fj93mCrxamZWZmOHRTeUZaSzQ?resourcekey=0-oGhExosANxq-wWEYkM5_1g&usp=share_link)
 
 
