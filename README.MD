@@ -14,6 +14,7 @@ Processing
   
   -> clic droit, extraire l'archive.
 
+  -> [chatGPT](https://chat.openai.com/share/953e634f-2767-46ca-87c6-40524e8427c9)
 
 [sujet](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/rk09Hox-s)
 
