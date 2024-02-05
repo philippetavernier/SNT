@@ -37,6 +37,11 @@ SEQ5
 [sujet](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/HkxeQPy_j)
 
 
+PYTHON
+---
+[Apprendre python](https://drive.google.com/drive/folders/0B9fj93mCrxamcTRVcWk3OHE5UEk?resourcekey=0-wC-2BcMAMyoofFm5pD92VA&usp=sharing)
+
+
 HTML
 ----
 [Prise en main html](https://hackmd.io/bvjbtlj8QXCsyuvuEaersA)
